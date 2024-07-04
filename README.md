@@ -9,4 +9,4 @@
 
 Get a sneak peek of the app below!
 
-![GistIt](https://github.com/bindu-1805/AI-Text-Summarizer-App/assets/137310333/dd2d2a18-1697-404f-a851-fe1d06236144)
+![GistIt](https://github.com/bindu-1805/AI-Text-Summarizer-App/assets/137310333/5a10bbed-6606-4f0f-8a9a-8ff7cfeb00d7)
